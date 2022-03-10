@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Artem Medianyk  :wink:
+ 
+#### :heart: I love:
 
-<!--
-**artem-327/artem-327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- JavaScript / TypeScript / React / Redux / GraphQL
+- Html / CSS / Bootstrap / TailwindCss / MUI / SemanticUI / UI-UX / Sass-Scss
+- Blockchain / NFTs / Web3 / Ethers
+- GCP / AWS / Heroku / Git / Jira / Slack / Docker
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :octocat: My GH stats
+
+![Artem's github stats](https://github-readme-stats.vercel.app/api?username=artyomDev&count_private=true&show_icons=true) 
+
