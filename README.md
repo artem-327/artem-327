@@ -10,5 +10,5 @@
 
 #### :octocat: My GH stats
 
-![Artem's github stats](https://github-readme-stats.vercel.app/api?username=artyomDev&count_private=true&show_icons=true) 
+![Artem's github stats](https://github-readme-stats.vercel.app/api?username=artem-327&count_private=true&show_icons=true) 
 
